@@ -1,0 +1,41 @@
+portainer.yourinstance.com##div.row.ng-scope:nth-of-type(2) > .col-lg-12.col-md-12.col-xs-12 > rd-widget.ng-isolate-scope > .widget > rd-widget-body.ng-scope.ng-isolate-scope > .widget-body.no-padding > .widget-content > .table.ng-scope > tbody > tr.ng-scope:nth-of-type(7) > td
+
+portainer.yourinstance.com##tr.ng-scope[ng-if="isAdmin && displayCreateWebhookButton && applicationState.endpoint.type !== 4"]
+portainer.yourinstance.com##.form-horizontal.ng-pristine.ng-scope.ng-valid.ng-valid-required > div.form-group:nth-of-type(4) > .ng-isolate-scope > .app-react-components-form-components-SwitchField-SwitchField-module__root.col-sm-12
+
+portainer.yourinstance.com##ssl-ca-file-settings.ng-scope.ng-isolate-scope
+
+portainer.yourinstance.com##div.row.ng-scope:nth-of-type(2) > div.col-sm-12:nth-of-type(1) > rd-widget.ng-isolate-scope > .widget > rd-widget-body.ng-scope.ng-isolate-scope > .widget-body > .widget-content > .form-horizontal.ng-pristine.ng-valid.ng-scope > div.form-group:nth-of-type(6)
+
+portainer.yourinstance.com##div.row.ng-scope:nth-of-type(2) > div.col-sm-12:nth-of-type(1) > rd-widget.ng-isolate-scope > .widget > rd-widget-body.ng-scope.ng-isolate-scope > .widget-body > .widget-content > .form-horizontal.ng-pristine.ng-valid.ng-scope > div.col-sm-12.form-section-title:nth-of-type(5)
+
+portainer.yourinstance.com##.app-react-components-BoxSelector-BoxOption-module__root.app-react-components-BoxSelector-BoxSelectorItem-module__box-selector-item.app-react-components-BoxSelector-BoxSelectorItem-module__business.app-react-components-BoxSelector-BoxSelectorItem-module__limited
+portainer.yourinstance.com##.form-horizontal.ng-pristine.ng-scope.ng-invalid.ng-invalid-required > div.ng-scope:nth-of-type(4) > .form-group
+
+portainer.yourinstance.com##.form-horizontal.ng-pristine.ng-scope.ng-invalid.ng-invalid-required > div.ng-scope:nth-of-type(4) > .col-sm-12.form-section-title
+
+portainer.yourinstance.com##div.ng-scope:nth-of-type(6) > .col-sm-12.form-section-title
+
+portainer.yourinstance.com##.vertical-center.be-indicator.ml-5.ng-scope
+
+portainer.yourinstance.com##.form-horizontal.ng-scope.ng-valid.ng-valid-required.ng-dirty.ng-valid-parse > div.form-group:nth-of-type(5) > .ng-isolate-scope > .app-react-components-form-components-SwitchField-SwitchField-module__root.col-sm-12
+
+portainer.yourinstance.com##li.flex.sidebar.min-h-8.text-gray-3.\[\&\>a\]\:text-inherit.\[\&\>a\]\:hover\:text-inherit.\[\&\>a\]\:hover\:no-underline:nth-of-type(4) > div.flex-1 > .relative.flex.w-full.items-center.justify-between > .text-inherit.no-underline.hover\:text-inherit.hover\:no-underline.focus\:text-inherit.focus\:no-underline.flex.h-8.w-full.flex-1.items-center.space-x-4.rounded-md.text-sm.transition-colors.duration-200.hover\:bg-blue-9.be\:hover\:bg-gray-9.th-dark\:hover\:bg-gray-true-9.justify-start.px-3
+
+portainer.yourinstance.com##li.flex.sidebar.min-h-8.text-gray-3.\[\&\>a\]\:text-inherit.\[\&\>a\]\:hover\:text-inherit.\[\&\>a\]\:hover\:no-underline:nth-of-type(4) > div.flex-1 > .relative.flex.w-full.items-center.justify-between > .absolute.right-2.flex.h-6.w-6.items-center.justify-center.border-0.bg-transparent.text-gray-5
+
+portainer.yourinstance.com##ldap-settings.ng-scope.ng-isolate-scope > div:nth-of-type(1) > box-selector.ng-isolate-scope > .ng-isolate-scope > .form-group.after\:clear-both.after\:table.after\:content-\[\"\"\] > .col-sm-12 > .app-react-components-BoxSelector-BoxSelector-module__root > .app-react-components-BoxSelector-BoxOption-module__root.app-react-components-BoxSelector-BoxSelectorItem-module__box-selector-item.app-react-components-BoxSelector-BoxSelectorItem-module__business.app-react-components-BoxSelector-BoxSelectorItem-module__limited > label
+portainer.yourinstance.com##ldap-custom-group-search.block.ng-isolate-scope > rd-widget.ng-scope.ng-isolate-scope > .widget > .ng-scope.ng-isolate-scope > .widget-body > .widget-content > div.form-group.ng-scope:nth-of-type(3) > .col-sm-12.small
+portainer.yourinstance.com##.form-group.ng-scope > .col-sm-12 > .ng-isolate-scope > .app-react-components-form-components-SwitchField-SwitchField-module__root
+
+portainer.yourinstance.com##ng-form.ng-pristine.ng-valid > div.form-group:nth-of-type(6) > .col-sm-12 > .ng-isolate-scope > .app-react-components-form-components-SwitchField-SwitchField-module__root
+
+portainer.yourinstance.com##ng-form.ng-pristine.ng-valid > div.form-group:nth-of-type(5) > .col-sm-12.text-muted.small
+
+portainer.yourinstance.com##ng-form.ng-pristine.ng-valid > div.col-sm-12.form-section-title:nth-of-type(4)
+
+portainer.yourinstance.com##.be-indicator.vertical-center
+
+portainer.yourinstance.com##.app-react-components-BoxSelector-BoxOption-module__root.app-react-components-BoxSelector-BoxSelectorItem-module__box-selector-item.app-react-components-BoxSelector-BoxSelectorItem-module__business.app-react-components-BoxSelector-BoxSelectorItem-module__limited > label
+
+portainer.yourinstance.com##.flex.w-full.items-center.justify-center.gap-1.py-2.pr-2.hover\:underline.border.border-solid.border-blue-9.bg-\[\#023959\].font-medium.text-white.th-dark\:border-\[\#343434\].th-dark\:bg-black.th-highcontrast\:border.th-highcontrast\:border-solid.th-highcontrast\:border-white.th-highcontrast\:bg-black.th-highcontrast\:font-medium.th-highcontrast\:text-white
